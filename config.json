@@ -128,6 +128,10 @@
     "senanguo": {                         
        "api": "https://api.sexnguon.com/api.php/provide/vod",                         
        "name": "色南国资源"
+    },                                
+    "senanguo": {                         
+       "api": "https://gt.uczyw.com/https://91md.me/api.php/provide/vod",                         
+       "name": "91麻豆"
     }
   }
  }
