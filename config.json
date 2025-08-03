@@ -88,40 +88,40 @@
     "lajiao": {
       "api": "https://cj.lajiaozy.com/api.php/provide/vod",
       "name": "辣椒资源网"
-    },
+    }, 
     "duoduo": {
-     "api": "https://api.duoduozy.com/api.php/provide/vod",
-     "name": "哆哆资源"
+      "api": "https://api.duoduozy.com/api.php/provide/vod",
+      "name": "哆哆资源"   
     },
-     "kunyu77": {
+    "kunyu77": {
       "api": "https://www.kunyu77.com/api.php/provide/vod",
       "name": "昆仑资源"
     },
     "niantv": {
-     "api": "https://niantv.com/api.php/provide/vod",
+      "api": "https://niantv.com/api.php/provide/vod",
       "name": "念TV资源"
     },
-   "xffm": {
-     "api": "https://api.xffm5.com/api.php/provide/vod",
+    "xffm": {
+      "api": "https://api.xffm5.com/api.php/provide/vod",
       "name": "先锋资源"
-     },
-     "FOX": {
+    },
+    "FOX": {
       "api": "https://api.foxzyapi.com/api.php/provide/vod",
       "name": "FOX资源"
-     },     
+    },     
      "hongniu": {      
       "api": "https://www.hongniuzy2.com/api.php/provide/vod",      
       "name": "红牛资源"
-     },     
+    },     
      "sina": {      
       "api": "http://api.xinlangapi.com/xinlangapi.php/provide/vod",      
       "name": "新浪资源"
-     },          
-     "jinying": {            
+    },          
+    "jinying": {            
       "api": "https://jyzyapi.com/provide/vod",            
       "name": "金鹰资源"
-     },                            
-      "39kan": {                  
+    },                            
+    "39kan": {                  
        "api": "https://www.39kan.com/api.php/provide/vod",                  
        "name": "39影视"
     }
