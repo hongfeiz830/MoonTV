@@ -128,6 +128,11 @@
       "yinghua":{                  
        "api": "https://m3u8.apiyhzy.com/api.php/provide/vod",                  
        "name": "樱花资源"
+       },               
+      "39kan":{                  
+       "api": "https://www.39kan.com/api.php/provide/vod",                  
+       "name": "39影视"
     }
   }
  }
+kan
