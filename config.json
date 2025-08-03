@@ -81,9 +81,29 @@
       "api": "https://cj.lziapi.com/api.php/provide/vod",
       "name": "量子资源站"
     },
-    "xiaomaomi": {
+    "xiaomaomi":{
       "api": "https://zy.xmm.hk/api.php/provide/vod",
       "name": "小猫咪资源"
     }
+    "lajiao":{
+      "api": "https://cj.lajiaozy.com/api.php/provide/vod/",
+      "name": "辣椒资源网"
+    }
+    "duoduo": {
+     "api": "https://api.duoduozy.com/api.php/provide/vod/"
+     "name": "哆哆资源",
+    }
+     "kunyu77":{
+      "api": "https://www.kunyu77.com/api.php/provide/vod/"
+      "name": "昆仑资源",  
+    }
+    "niantv":{
+     "api": "https://niantv.com/api.php/provide/vod/"
+      "name": "念TV资源",
+    }
+   "xffm": {
+     "api": "https://api.xffm5.com/api.php/provide/vod/"
+      "name": "先锋资源", 
+    }
   }
-}
+ }
