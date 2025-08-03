@@ -25,7 +25,7 @@
     },
     "ffzy": {
       "api": "http://ffzy5.tv/api.php/provide/vod",
-      "name": "非凡影视"
+      "name": "非凡影视",
       "detail": "http://ffzy5.tv"
     },
     "zy360": {
@@ -42,7 +42,7 @@
     },
     "jisu": {
       "api": "https://jszyapi.com/api.php/provide/vod",
-      "name": "极速资源"
+      "name": "极速资源",
       "detail": "https://jszyapi.com"
     },
     "dbzy": {
