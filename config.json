@@ -129,9 +129,13 @@
        "api": "https://api.sexnguon.com/api.php/provide/vod",                         
        "name": "色南国资源"
     },                                
-    "senanguo": {                         
+    "91madou": {                         
        "api": "https://gt.uczyw.com/https://91md.me/api.php/provide/vod",                         
        "name": "91麻豆"
+    },                                    
+    "fanhao": {                                
+       "api": "https://gt.uczyw.com/http://fhapi9.com/api.php/provide/vod",                                
+       "name": "番号资源"
     }
   }
  }
