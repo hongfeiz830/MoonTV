@@ -18,18 +18,6 @@
         "api": "https://api.xiuseapi.com/api.php/provide/vod",
         "name": "秀色资源站"
       },
-      "丝w资源": {
-        "api": "https://siwazyw.cc/api.php/provide/vod",
-        "name": "丝W资源"
-      },
-      "秀色资源": {
-        "api": "https://api.xiuseapi.com/api.php/provide/vod",
-        "name": "秀色资源"
-      },
-      "色窝资源": {
-        "api": "https://sewozyapi.com/api.php/provide/vod",
-        "name": "色窝资源"
-      },
       "yin窝资源": {
         "api": "https://api.yinwoapi.com/api.php/provide/vod",
         "name": "Yin窝资源"
